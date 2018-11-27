@@ -1,3 +1,14 @@
- git is very hard to work.hi.
+ as i learn more of git, its getting easier and easeir to use.
+:wq!
+:wq
+
+
+
+
+
+
+
+
+
 
 
